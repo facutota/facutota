@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @facutota
+# 👋 Hi, I’m Facu
 
 ---
 
@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in web and app projects
 - 🌱 I’m a Software Engineer working on various projects in both frontend and backend development.
-- 📫 How to reach me: [facutota@gmail.com](mailto:facutota@gmail.com)
+- 📫 How to reach me: [facundo@thelabs.dev](mailto:facundo@thelabs.dev)
 
 ## My Tech Stack
 
