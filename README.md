@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in web and app projects
 - 🌱 I’m a Software Engineer working on various projects in both frontend and backend development.
-- 📫 How to reach me: [facundo@thelabs.dev](mailto:facundo@thelabs.dev)
+- 📫 How to reach me: [medinafacundom@gmail.com](mailto:medinafacundom@gmail.com)
 
 ## My Tech Stack
 
